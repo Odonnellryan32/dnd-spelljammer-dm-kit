@@ -2,7 +2,7 @@
 
 See credits for creators.
 
-## List
+## Ship List
 1. Wrecked Neogi Deathspider - great dungeon, hopefully with Neogi un-included.
 2. Nautiloid #1 -  Illithid Nautiloid. A nice purple hue inspired by BG3's intro cinematics.
 3. Dragonfly Class - by author's description - “The Mid-Priced Toyota of Fantasy Spacecraft.”
