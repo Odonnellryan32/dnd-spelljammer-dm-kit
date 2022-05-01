@@ -2,9 +2,24 @@
 
 ## Maps
 1. Neogi Deathspider -> https://laughingbeholder.com/ship-maps.html -> Dan Roy, "Bogie" -> https://www.deviantart.com/bogie-dj
-2. Nautiloid -> Illithid Nautiloid. A nice purple hue inspired by BG3's intro cinematics. -> https://laughingbeholder.com/ship-maps.html -> https://www.limithron.com/nautiloid
+2. Nautiloid -> https://laughingbeholder.com/ship-maps.html -> https://www.limithron.com/nautiloid
+3. Dragonfly Class -> https://www.milbysmaps.com/2021/05/23/dragonfly-class-spelljammer-the-mid-priced-toyota-of-fantasy-spacecraft/
+4. Lamprey -> https://laughingbeholder.com/ship-maps.html -> Dan Roy, "Bogie" -> https://www.deviantart.com/bogie-dj
+
 ## Creatures
 TBD
 
+## Encounters
+TBD
+
+## Plots
+TBD
+
 ## Artwork
+TBD
+
+## NPCs
+TBD
+
+## Templates
 TBD
